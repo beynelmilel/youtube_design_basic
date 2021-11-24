@@ -2,7 +2,7 @@
 
 Flutter öğrenmek için yaptığım basit bir youtube arayüzü.
 
-![Optional Text](../main/YOUTUBE_DESIGN_BASIC/image.png)
+![alt text](https://raw.githubusercontent.com/beynelmilel/youtube_design_basic/main/image.png)
 
 ## Getting Started
 
